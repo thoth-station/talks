@@ -1,0 +1,15 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - fridex
+  - goern
+  - sesheta
+
+reviewers:
+  - harshad16
+  - pacespace
+  - kpostoffice
+
+labels:
+  - sig/user-experience
+  - sig/cyborgs
