@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Managing Python dependencies with the Thoth JupyterLab extension](https://developers.redhat.com/blog/2021/03/19/managing-python-dependencies-with-the-thoth-jupyterlab-extension/)
+
  * [Use Kebechet machine learning to perform source code operations](https://developers.redhat.com/blog/2020/12/24/use-kebechet-machine-learning-to-perform-source-code-operations/)
 
  * [AI software stack inspection with Thoth and TensorFlow](https://developers.redhat.com/blog/2020/09/30/ai-software-stack-inspection-with-thoth-and-tensorflow/)
