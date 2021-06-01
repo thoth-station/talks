@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [micropipenv: Installing Python dependencies in containerized applications](https://developers.redhat.com/articles/2021/05/19/micropipenv-installing-python-dependencies-containerized-applications)
+
  * [Continuous learning in Project Thoth using Kafka and Argo](https://developers.redhat.com/blog/2021/04/26/continuous-learning-in-project-thoth-using-kafka-and-argo/)
 
  * [Managing Python dependencies with the Thoth JupyterLab extension](https://developers.redhat.com/blog/2021/03/19/managing-python-dependencies-with-the-thoth-jupyterlab-extension/)
