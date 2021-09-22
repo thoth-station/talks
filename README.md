@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Thoth prescriptions for resolving Python dependencies](https://developers.redhat.com/articles/2021/09/22/thoth-prescriptions-resolving-python-dependencies)
+
  * [Resolve Python dependencies with Thoth Dependency Monkey](https://developers.redhat.com/articles/2021/09/17/resolve-python-dependencies-thoth-dependency-monkey)
 
  * [micropipenv: Installing Python dependencies in containerized applications](https://developers.redhat.com/articles/2021/05/19/micropipenv-installing-python-dependencies-containerized-applications)
