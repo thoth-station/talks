@@ -5,6 +5,8 @@ Talks, presentations and research papers published about Thoth
 
  * [Secure your Python applications with Thoth recommendations](https://developers.redhat.com/articles/2021/09/29/secure-your-python-applications-thoth-recommendations)
 
+ * [Find and compare Python libraries with project2vec](https://developers.redhat.com/articles/2021/10/06/find-and-compare-python-libraries-project2vec)
+
  * [Thoth prescriptions for resolving Python dependencies](https://developers.redhat.com/articles/2021/09/22/thoth-prescriptions-resolving-python-dependencies)
 
  * [Resolve Python dependencies with Thoth Dependency Monkey](https://developers.redhat.com/articles/2021/09/17/resolve-python-dependencies-thoth-dependency-monkey)
