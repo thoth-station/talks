@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Secure your Python applications with Thoth recommendations](https://developers.redhat.com/articles/2021/09/29/secure-your-python-applications-thoth-recommendations)
+
  * [Thoth prescriptions for resolving Python dependencies](https://developers.redhat.com/articles/2021/09/22/thoth-prescriptions-resolving-python-dependencies)
 
  * [Resolve Python dependencies with Thoth Dependency Monkey](https://developers.redhat.com/articles/2021/09/17/resolve-python-dependencies-thoth-dependency-monkey)
