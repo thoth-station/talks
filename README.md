@@ -5,6 +5,8 @@ Talks, presentations and research papers published about Thoth
 
  * [Generating pseudorandom numbers in Python](https://developers.redhat.com/articles/2021/11/04/generating-pseudorandom-numbers-python)
 
+ * [Customize Python dependency resolution with machine learning](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
+
  * [Secure your Python applications with Thoth recommendations](https://developers.redhat.com/articles/2021/09/29/secure-your-python-applications-thoth-recommendations)
 
  * [Find and compare Python libraries with project2vec](https://developers.redhat.com/articles/2021/10/06/find-and-compare-python-libraries-project2vec)
