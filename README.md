@@ -3,6 +3,10 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Build and extend containerized applications with Project Thoth](https://developers.redhat.com/articles/2021/11/25/build-and-extend-containerized-applications-project-thoth)
+
+ * [Customize Python dependency resolution with machine learning](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
+
  * [Generating pseudorandom numbers in Python](https://developers.redhat.com/articles/2021/11/04/generating-pseudorandom-numbers-python)
 
  * [Secure your Python applications with Thoth recommendations](https://developers.redhat.com/articles/2021/09/29/secure-your-python-applications-thoth-recommendations)
