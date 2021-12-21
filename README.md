@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Prevent Python dependency confusion attacks with Thoth](https://developers.redhat.com/articles/2021/12/21/prevent-python-dependency-confusion-attacks-thoth)
+
  * [Build and extend containerized applications with Project Thoth](https://developers.redhat.com/articles/2021/11/25/build-and-extend-containerized-applications-project-thoth)
 
  * [Customize Python dependency resolution with machine learning](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
