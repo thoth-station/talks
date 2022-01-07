@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Extracting information from Python source code](https://developers.redhat.com/articles/2022/01/05/extracting-information-python-source-code)
+
  * [Prevent Python dependency confusion attacks with Thoth](https://developers.redhat.com/articles/2021/12/21/prevent-python-dependency-confusion-attacks-thoth)
 
  * [Build and extend containerized applications with Project Thoth](https://developers.redhat.com/articles/2021/11/25/build-and-extend-containerized-applications-project-thoth)
