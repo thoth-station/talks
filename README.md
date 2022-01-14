@@ -3,6 +3,10 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Extracting dependencies from Python packages](https://developers.redhat.com/articles/2022/01/14/extracting-dependencies-python-packages)
+
+ * [How to build and operate cloud-native AI with Open Data Hub](https://www.redhat.com/architect/cloud-native-ai)
+
  * [Extracting information from Python source code](https://developers.redhat.com/articles/2022/01/05/extracting-information-python-source-code)
 
  * [Prevent Python dependency confusion attacks with Thoth](https://developers.redhat.com/articles/2021/12/21/prevent-python-dependency-confusion-attacks-thoth)
