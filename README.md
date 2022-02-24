@@ -3,6 +3,8 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [Inspecting containerized Python applications in a cluster](https://developers.redhat.com/articles/2022/02/24/inspecting-containerized-python-applications-cluster)
+
  * [How to self-host a Python package index using Pulp](https://developers.redhat.com/articles/2022/01/17/how-self-host-python-package-index-using-pulp)
 
  * [Extracting dependencies from Python packages](https://developers.redhat.com/articles/2022/01/14/extracting-dependencies-python-packages)
