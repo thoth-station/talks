@@ -3,6 +3,12 @@ Talks, presentations and research papers published about Thoth
 
 # Blog posts
 
+ * [TheNewStack: Automate Quality, Security Checks for Python Library Dependencies](https://thenewstack.io/automate-quality-security-checks-for-python-library-dependencies/)
+
+ * [Red Hat Enable Architect: Manage Python application dependencies in the cloud with this open source tool](https://www.redhat.com/architect/manage-python-dependencies-thoth)
+
+ * [opensource.com: Automate checking for flaws in Python with Thoth](https://opensource.com/article/22/4/automate-security-checks-open-source-libraries-thoth)
+
  * [Manage Python security with Thoth's cloud-based dependency resolver](https://developers.redhat.com/articles/2022/03/07/manage-python-security-thoths-cloud-based-dependency-resolver)
 
  * [Inspecting containerized Python applications in a cluster](https://developers.redhat.com/articles/2022/02/24/inspecting-containerized-python-applications-cluster)
